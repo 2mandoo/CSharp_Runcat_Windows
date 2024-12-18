@@ -16,3 +16,12 @@ macOS용 RunCat의 기능과 느낌을 Windows 환경에서도 경험할 수 있
 
 
 #### 개인 프로젝트 (24.11.06 ~ 24.11.07)
+
+#### UI
+[mouseover]
+
+![tooltip](https://github.com/user-attachments/assets/7cb82690-0a88-481d-9bc0-18f37eb34d59)
+
+[right-click]
+
+![theme](https://github.com/user-attachments/assets/9891df03-64cc-495e-a10f-ce384c891a72)
