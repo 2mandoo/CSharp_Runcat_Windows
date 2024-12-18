@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunCatForWin", "RunCatForWin.csproj", "{B3F51CD5-839A-43EB-8C19-0702DACAC721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F51CD5-839A-43EB-8C19-0702DACAC721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F51CD5-839A-43EB-8C19-0702DACAC721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F51CD5-839A-43EB-8C19-0702DACAC721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F51CD5-839A-43EB-8C19-0702DACAC721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3EF8A72-925D-43D9-A4ED-5A3AEF3F4EDD}
+	EndGlobalSection
+EndGlobal
